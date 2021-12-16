@@ -59,6 +59,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wedburst&repo=react-use-context&theme=react)](https://github.com/wedburst/react-use-context)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wedburst&layout=compact&theme=react)](https://github.com/wedburst/react-use-context)
+
+##
 
 ### 🎧 Music | Spotify Playing
 [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
