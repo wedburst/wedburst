@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
   <img src="https://img.shields.io/badge/firebase%20realtime%20database-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/Mongoose-00C58E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/nextjs-fff?style=for-the-badge&logo=nextjs">
 </p>
 
 ## Tools & Technologies
