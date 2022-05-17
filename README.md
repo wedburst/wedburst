@@ -59,6 +59,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wedburst&repo=react-use-context&theme=react)](https://github.com/wedburst/react-use-context)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wedburst&repo=next-teslo-shop&theme=react)](https://github.com/wedburst/next-teslo-shop)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wedburst&layout=compact&theme=react)](https://github.com/wedburst/react-use-context)
 
