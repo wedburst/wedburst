@@ -5,9 +5,7 @@
    “role” : “Front-end Dev”,
    “data” : 
      { 
-      "website" : "https://jhonabou.com/", 
       "Resume"   : "https://github.com/wedburst/",
-      "TW"       : "https://twitter.com/WedOficial"
      }
  }]
  ```
