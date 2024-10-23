@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Mac Ox-f2f2f2?style=for-the-badge&logo=apple&logoColor=2d2d2d">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Windows-FCC624?style=for-the-badge&logo=windows&logoColor=black">
+  <img src="https://img.shields.io/badge/Windows-FCC624?style=for-the-badge&logo=microsoft&logoColor=black">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
